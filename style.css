@@ -13,9 +13,12 @@ ul a {
     color: white !important;
 }
 
-img {
+.logo-img {
     width: 60px;
     border-radius: 30px;
+}
+.doctor-img {
+    width: 100%;
 }
 
 .btn {
