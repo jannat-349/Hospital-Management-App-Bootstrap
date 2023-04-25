@@ -18,9 +18,19 @@ ul a {
     border-radius: 30px;
 }
 .doctor-img {
-    width: 100%;
+    height: 400px;
+    width: 300px;
+
 }
 
 .btn {
     color: white;
+}
+
+.form-floating {
+    color: rgba(23, 30, 112, 0.938);
+}
+
+.form-control, select {
+    margin-bottom: 10px;
 }
