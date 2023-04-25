@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(23, 30, 112, 0.938);
+    color: white;
+}
+
+ul a {
+    color: white !important;
+}
+
+img {
+    width: 60px;
+    border-radius: 30px;
+}
+
+.btn {
+    color: white;
+}
