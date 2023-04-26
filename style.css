@@ -52,3 +52,10 @@ select {
   width: 70vw;
   margin: auto;
 }
+
+.carousel-item {
+  padding-left: 30%;
+  padding-top: 10%;
+  padding-right: 30%;
+}
+
