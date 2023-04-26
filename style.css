@@ -41,9 +41,14 @@ select {
   color: white;
 }
 .card h3 {
-    color: rgba(23, 30, 112, 0.938) !important;
+  color: rgba(23, 30, 112, 0.938) !important;
 }
 
-.card-link{
-    color: rgba(23, 30, 112, 0.938);
+.card-link {
+  color: rgba(23, 30, 112, 0.938);
+}
+
+.row {
+  width: 70vw;
+  margin: auto;
 }
