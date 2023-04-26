@@ -1,36 +1,49 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    background-color: rgba(23, 30, 112, 0.938);
-    color: white;
+  background-color: rgba(23, 30, 112, 0.938);
+  color: white;
 }
 
 ul a {
-    color: white !important;
+  color: white !important;
 }
 
 .logo-img {
-    width: 60px;
-    border-radius: 30px;
+  width: 60px;
+  border-radius: 30px;
 }
 .doctor-img {
-    height: 400px;
-    width: 300px;
-    margin-top: 20px;
+  height: 400px;
+  width: 300px;
+  margin-top: 20px;
 }
 
 .btn {
-    color: white;
+  color: white;
 }
 
 .form-floating {
-    color: rgba(23, 30, 112, 0.938);
+  color: rgba(23, 30, 112, 0.938);
 }
 
-.form-control, select {
-    margin-bottom: 10px;
+.form-control,
+select {
+  margin-bottom: 10px;
+}
+
+.card {
+  background-color: rgb(87, 137, 246);
+  color: white;
+}
+.card h3 {
+    color: rgba(23, 30, 112, 0.938) !important;
+}
+
+.card-link{
+    color: rgba(23, 30, 112, 0.938);
 }
