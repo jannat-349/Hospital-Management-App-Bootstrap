@@ -59,3 +59,13 @@ select {
   padding-right: 30%;
 }
 
+footer {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding-top: 5%;
+}
+footer a{
+    text-decoration: none;
+}
+
