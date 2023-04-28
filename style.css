@@ -7,6 +7,11 @@
 body {
   background-color: rgba(23, 30, 112, 0.938);
   color: white;
+  padding-top: 100px;
+}
+
+.navbar {
+  background-color: rgb(87, 137, 246);
 }
 
 ul a {
